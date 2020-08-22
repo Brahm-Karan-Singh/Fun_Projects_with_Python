@@ -6,3 +6,5 @@
 
 ## 2. Guessing Game:
 ### This is a fun game where you have 5 guesses to guess the random number and at every guess you will be given a clue that whether your number is greater or lesser than the random number
+
+#### Note- I am making these projects while learning python, so some of the codes would be longer which i will optimize in the future :)
