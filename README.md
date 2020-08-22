@@ -11,12 +11,14 @@
 
 ## 3. Printing patterns:
 ### I this , some patterns are patterns are printing on the choice of user like-
-### For 0--->        *
+### For 0--->      
+###                  *
 ###                  * *   
 ###                  * * *
 ###                  * * * *
 
-### For 1--->        * * * *
+### For 1--->     
+###                  * * * *
 ###                  * * *
 ###                  * * 
 ###                  *
