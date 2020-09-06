@@ -24,4 +24,8 @@
 ###                  * * 
 ###                  *
 
+## 5.Snake Water Gun Game:
+### A multiplayer fun game in which your opponent is computer and and it is similar to the game stone paper scissors and in this game you will get 5 chances to beat computer and 
+### to become the winner.
+
 #### Note- I am making these projects while learning python, so some of the codes would be longer which i will optimize in the future :)
