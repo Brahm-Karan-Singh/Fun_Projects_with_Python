@@ -29,3 +29,7 @@
 ### to become the winner.
 
 #### Note- I am making these projects while learning python, so some of the codes would be longer which i will optimize in the future :)
+
+## 6. Mini Project(Apni Library):
+### Mini project is an oops project which have all functions inbuilt functions like if a user want to donate a book or if a user wants to lend or return a book everything is 
+### maintained.
